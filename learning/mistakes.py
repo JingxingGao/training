@@ -5,6 +5,9 @@ def joke():
     '''
     return ('Getting a PhD is simple')
 
+ return ('Getting a PhD is simple')
+  return ('Getting a PhD is simple')
+   return ('Getting a PhD is simple')
 
 def add(a, b):
     '''
