@@ -5,6 +5,10 @@ def joke():
     '''
     return ('Getting a PhD is easy')
 
+    # New
+
+    return ('Getting a PhD is easy')
+
 
 def add(a, b):
     '''
